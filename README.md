@@ -82,9 +82,9 @@ _A full diagram is available in the `/diagrams` folder._
 
 ## 🚀 Roadmap
 
-- [x] Deploy Sentinel and connect log sources
-- [x] Build Windows domain environment
-- [x] Implement multi-zone firewall setup
+- [ ] Deploy Sentinel and connect log sources
+- [ ] Build Windows domain environment
+- [ ] Implement multi-zone firewall setup
 - [ ] Create detection rules with KQL
 - [ ] Develop Playbooks for automated response
 - [ ] Simulate Red Team TTPs (MITRE-based)
